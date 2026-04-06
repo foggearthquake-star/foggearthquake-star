@@ -1,38 +1,46 @@
 # Ainur Gabdraupov
 
-**AI product builder focused on tenders, marketing automation, and decision-support workflows.**
+**AI Product Manager | AI systems builder for B2B and industrial workflows**
 
-I build practical AI systems that turn messy workflows into repeatable decisions, useful outputs, and product opportunities.
+Запускаю AI-продукты, автоматизации и цифровые сервисы, которые решают прикладные задачи бизнеса: тендеры, маркетинг, лиды, аналитика, внутренние процессы.
 
-## Current Focus
+Сейчас мне интересны роли и проекты на стыке **AI Product Management, applied AI, automation и digital products**.
 
-- Tender copilots with RAG and evidence-based go/no-go support
-- Multi-agent marketing workflow automation
-- AI tools for industrial, energy, and infrastructure contexts
-- Narrow AI products with a short path to proof and revenue
+## Чем занимаюсь
 
-## Featured Projects
+- Собираю и запускаю AI-продукты под реальные процессы, а не под демо
+- Перевожу хаос из документов, переписок и ручной рутины в понятную логику, интерфейсы и автоматизацию
+- Работаю на стыке продукта, разработки и бизнеса: требования, приоритизация, декомпозиция, delivery
+- Хорошо чувствую industrial и B2B-контекст: нефтегаз, производство, инфраструктура, внутренние платформы
 
-| Project | What it does |
-| --- | --- |
-| [tender-copilot-telegram-rag](https://github.com/foggearthquake-star/tender-copilot-telegram-rag) | Telegram-first AI copilot for tender analysis, company-context RAG, go/no-go decisions, and bid draft generation. |
-| [ai-marketing-campaign-generator](https://github.com/foggearthquake-star/ai-marketing-campaign-generator) | AI-powered SaaS workflow that analyzes company websites and generates full marketing campaigns with a multi-agent LLM architecture. |
-| [universal-AI-agent-sells](https://github.com/foggearthquake-star/universal-AI-agent-sells) | Early exploration around AI-assisted sales workflows and commercialization. |
+## Ключевые кейсы
 
-## Building With
+- **Tender Copilot** - AI-сервис анализа тендерной документации: RAG-пайплайн, LLM-скоринг `GO / REVIEW / NO_GO` с цитатами, генерация первого черновика заявки. Сокращение анализа с нескольких часов до 15-20 минут.
+- **AI Marketing Campaign Generator** - SaaS-платформа: анализ сайта -> multi-agent LLM workflow -> готовая маркетинговая кампания. Архитектура с multi-tenant логикой, JWT, Celery/Redis, Next.js.
+- **AI Lead Qualification Agent** - Telegram-агент для квалификации лидов: скоринг 0-100, RAG по базе знаний, автоматическая lead card в amoCRM.
+- **Мониторинг цен АЗС** - система конкурентной разведки с геоаналитикой и ML-прогнозированием спроса, доведенная до production у клиента.
 
-`Python` `RAG` `MCP` `GraphRAG` `LLM orchestration` `Telegram-first products` `workflow automation` `decision support`
+## Опыт
 
-## What I Care About
+- `4+ года` в управлении проектами и цифровыми продуктами
+- AI-продукты, RAG-системы, LLM-агенты, n8n-автоматизации
+- Координация команд backend, frontend, QA, design до 10 человек
+- Управление крупными инфраструктурными проектами до 50+ млн руб. и командами до 15 человек
+- Опыт работы с промышленными заказчиками: сбор требований, ТЗ, user stories, backlog, delivery, приемка
 
-- AI copilots for tenders and procurement
-- AI for marketing execution
-- Digital tools for industrial workflows
-- Automation-first micro-products
-- Systems that create money, signal, or decision leverage quickly
+## Стек
 
-## GitHub Activity
+`Python` `FastAPI` `PostgreSQL` `REST API` `Webhooks` `RAG` `LangChain` `OpenAI API` `Claude API` `n8n` `Celery` `Redis` `Next.js` `MCP`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foggearthquake-star&show_icons=true&hide_title=true&hide_border=true&rank_icon=github)
+## Где посмотреть подробнее
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foggearthquake-star&layout=compact&hide_border=true)
+- Website: [gabdra.pw](https://gabdra.pw)
+- GitHub projects: [tender-copilot-telegram-rag](https://github.com/foggearthquake-star/tender-copilot-telegram-rag), [ai-marketing-campaign-generator](https://github.com/foggearthquake-star/ai-marketing-campaign-generator), [universal-AI-agent-sells](https://github.com/foggearthquake-star/universal-AI-agent-sells)
+- Contact: [foggearthquake@gmail.com](mailto:foggearthquake@gmail.com)
+
+## Что важно в работе
+
+- Сначала боль и процесс, потом инструмент
+- Не строю платформу ради платформы
+- Стараюсь делать решения, которые дают деньги, скорость или качество решений
+- После запуска смотрю на систему как на продукт, а не как на одноразовую разработку
